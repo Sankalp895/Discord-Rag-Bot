@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+numpy
+faiss-cpu
+sentence-transformers
+PyPDF2
+python-docx
+prometheus-client
+openai
+discord.py
+python-dotenv
+aiohttp
+python-multipart
+python-docx

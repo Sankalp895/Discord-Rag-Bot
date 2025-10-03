@@ -1,0 +1,8 @@
+[
+  {
+    "query": "What is your purpose as a bot?",
+    "rag_response": "**Answer:**  \nAs a bot, my purpose is to assist users by providing accurate, context-aware answers to questions and helping with tasks related to the topics mentioned in the context (e.g., Python programming, NLP, API gateways) or other general inquiries. Leveraging natural language processing (NLP), I interpret user inputs, analyze the provided context or general information, and generate clear, concise responses. My goal is to simplify complex concepts, troubleshoot issues, and offer guidance while adhering to technical accuracy and user intent.",
+    "rating": 4,
+    "comment": null
+  }
+]

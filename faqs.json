@@ -1,0 +1,197 @@
+[
+  {
+    "question": "What is Python?",
+    "answer": "Python is a high-level, interpreted programming language known for readability and wide usage in web development, data science, AI, and automation."
+  },
+  {
+    "question": "What are Python's key features?",
+    "answer": "Python is dynamically typed, cross-platform, has a huge standard library, and supports multiple paradigms including OOP and functional programming."
+  },
+  {
+    "question": "What is a Python virtual environment?",
+    "answer": "A virtual environment is an isolated Python environment where you can install dependencies without affecting the global system installation."
+  },
+  {
+    "question": "What is FastAPI?",
+    "answer": "FastAPI is a modern, high-performance Python framework for building APIs, with automatic OpenAPI documentation and async support."
+  },
+  {
+    "question": "What is Uvicorn?",
+    "answer": "Uvicorn is a lightning-fast ASGI server often used to serve FastAPI and other async Python frameworks."
+  },
+  {
+    "question": "What is Docker?",
+    "answer": "Docker is a platform for packaging applications into lightweight, portable containers that run consistently across environments."
+  },
+  {
+    "question": "Why use Docker?",
+    "answer": "Docker simplifies deployment, improves scalability, and avoids dependency conflicts by isolating environments."
+  },
+  {
+    "question": "What is Kubernetes?",
+    "answer": "Kubernetes is a container orchestration tool for automating deployment, scaling, and management of containerized apps."
+  },
+  {
+    "question": "What is FAISS?",
+    "answer": "FAISS is a library by Meta AI for fast similarity search and clustering of dense vectors, commonly used in RAG and ML systems."
+  },
+  {
+    "question": "What is an embedding?",
+    "answer": "An embedding is a numerical vector representation of data (like text or images) in a high-dimensional space for similarity comparison."
+  },
+  {
+    "question": "What is DeepSeek?",
+    "answer": "DeepSeek is a large language model designed for natural language tasks like question answering, summarization, and reasoning."
+  },
+  {
+    "question": "How does DeepSeek work?",
+    "answer": "DeepSeek uses a transformer-based architecture trained on large datasets to predict the next word in context and generate coherent responses."
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine learning is a subset of AI where algorithms learn from data to make predictions or decisions without explicit programming."
+  },
+  {
+    "question": "What is reinforcement learning?",
+    "answer": "Reinforcement learning is an ML paradigm where an agent learns through trial and error, receiving rewards or penalties for actions."
+  },
+  {
+    "question": "What is natural language processing?",
+    "answer": "Natural language processing (NLP) is the field of AI that enables computers to process and understand human language."
+  },
+  {
+    "question": "What is RAG?",
+    "answer": "Retrieval-Augmented Generation (RAG) is an approach that combines a retriever (to fetch relevant documents) and a generator (like an LLM) to produce better responses."
+  },
+  {
+    "question": "What is Git?",
+    "answer": "Git is a distributed version control system used to track changes in source code and collaborate with teams."
+  },
+  {
+    "question": "What is GitHub?",
+    "answer": "GitHub is a cloud-based hosting platform for Git repositories, offering collaboration, CI/CD, and project management tools."
+  },
+  {
+    "question": "What is CI/CD?",
+    "answer": "CI/CD stands for Continuous Integration and Continuous Deployment/Delivery, automating build, test, and deployment pipelines."
+  },
+  {
+    "question": "What is cloud computing?",
+    "answer": "Cloud computing is the delivery of computing services like storage, servers, and AI tools over the internet."
+  },
+  {
+    "question": "What is Microsoft Azure?",
+    "answer": "Azure is Microsoft's cloud computing platform offering IaaS, PaaS, and SaaS solutions for building and scaling applications."
+  },
+  {
+    "question": "What is AWS?",
+    "answer": "Amazon Web Services (AWS) is a cloud platform providing compute, storage, networking, and AI services at scale."
+  },
+  {
+    "question": "What is Google Cloud?",
+    "answer": "Google Cloud Platform (GCP) provides cloud services including Compute Engine, BigQuery, and Vertex AI for ML workflows."
+  },
+  {
+    "question": "What is REST API?",
+    "answer": "A REST API is a web service architecture based on HTTP methods (GET, POST, PUT, DELETE) for communication between clients and servers."
+  },
+  {
+    "question": "What is GraphQL?",
+    "answer": "GraphQL is a query language for APIs that allows clients to request only the data they need in a flexible way."
+  },
+  {
+    "question": "What is SQL?",
+    "answer": "SQL (Structured Query Language) is used to manage and query relational databases."
+  },
+  {
+    "question": "What is NoSQL?",
+    "answer": "NoSQL databases are non-relational databases like MongoDB and Cassandra, designed for scalability and flexibility."
+  },
+  {
+    "question": "What is logging in software?",
+    "answer": "Logging is the process of recording runtime information such as errors, warnings, and system events for debugging and monitoring."
+  },
+  {
+    "question": "What is monitoring?",
+    "answer": "Monitoring involves collecting metrics from applications and systems to track health, performance, and availability."
+  },
+  {
+    "question": "What is Prometheus?",
+    "answer": "Prometheus is an open-source system for monitoring and alerting, commonly used with Grafana for visualization."
+  },
+  {
+    "question": "What is Grafana?",
+    "answer": "Grafana is a visualization tool used with monitoring systems to create interactive dashboards for metrics and logs."
+  },
+  {
+    "question": "What is JSON?",
+    "answer": "JSON (JavaScript Object Notation) is a lightweight data-interchange format that is easy to read and write for humans and machines."
+  },
+  {
+    "question": "What is YAML?",
+    "answer": "YAML is a human-readable data serialization language often used for configuration files like Docker Compose and Kubernetes manifests."
+  },
+  {
+    "question": "What is HTML?",
+    "answer": "HTML (HyperText Markup Language) is the standard language for creating webpages."
+  },
+  {
+    "question": "What is CSS?",
+    "answer": "CSS (Cascading Style Sheets) is used to style and layout HTML documents."
+  },
+  {
+    "question": "What is JavaScript?",
+    "answer": "JavaScript is a programming language used for building interactive web applications, running both in browsers and on servers with Node.js."
+  },
+  {
+    "question": "What is TypeScript?",
+    "answer": "TypeScript is a superset of JavaScript that adds static typing, improving developer productivity and reducing bugs."
+  },
+  {
+    "question": "What is API rate limiting?",
+    "answer": "Rate limiting is a technique to control the number of API requests a client can make in a given timeframe, preventing abuse and overload."
+  },
+  {
+    "question": "What is caching?",
+    "answer": "Caching is the process of storing frequently accessed data in memory or local storage for faster retrieval."
+  },
+  {
+    "question": "What is OAuth?",
+    "answer": "OAuth is an open standard for secure authorization that allows apps to access user data without exposing credentials."
+  },
+  {
+    "question": "What is JWT?",
+    "answer": "JWT (JSON Web Token) is a compact token format for securely transmitting claims between parties, often used in authentication."
+  },
+  {
+    "question": "Policies.pdf",
+    "answer": "1. Working Hours: 9 AM to 6 PM, Mon–Fri.\n2. Leave Policy: 20 paid leaves annually, requests 3 days prior.\n3. Remote Work: Allowed 2 days per week with approval.\n4. Confidentiality: Maintain data security.\n5. Code of Conduct: Respectful communication, punctuality.\n6. IT Usage: Work devices only, approvals for installs.\n7. Security: Lock systems, use strong passwords.\n8. Training: Annual compliance training.\n9. Reviews: Conducted twice a year.\n10. Dress Code: Business casual.",
+    "metadata": {
+      "title": "Policies.pdf"
+    }
+  },
+  {
+    "question": "What is a container?",
+    "answer": "A container is a lightweight, portable package that contains an application and all its dependencies, ensuring consistency across environments."
+  },
+  {
+    "question": "What is virtualization?",
+    "answer": "Virtualization is the process of creating virtual versions of hardware, OS, storage, or network resources to maximize resource utilization."
+  },
+  {
+    "question": "What is microservices architecture?",
+    "answer": "Microservices is an architectural style that structures applications as a collection of loosely coupled services that can be developed and scaled independently."
+  },
+  {
+    "question": "What is an API gateway?",
+    "answer": "An API gateway is a server that acts as a single entry point for APIs, handling authentication, routing, and rate limiting."
+  },
+  {
+    "question": "What is latency?",
+    "answer": "Latency is the time delay between a user request and the system’s response, often measured in milliseconds."
+  },
+  {
+    "question": "What is throughput?",
+    "answer": "Throughput is the measure of how many requests a system can handle per second."
+  }
+]
