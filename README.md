@@ -6,7 +6,9 @@ It connects Discord with a backend service that retrieves knowledge, generates A
 🚀 Features
 
 Ask questions directly in Discord using !ask <your question>.
+
 Retrieval-Augmented Generation (RAG) for more accurate and context-aware responses.
+
 Document ingestion: Upload files (PDF/DOCX/FAQ JSON) to enrich the knowledge base.
 Feedback collection: Users can rate answers with ⭐ reactions (1–5).
 Logging & Observability: Tracks requests, errors, and response quality.
